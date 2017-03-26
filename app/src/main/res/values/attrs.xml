@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyScrollbarListview">
+        <attr name="scrollBarPanel" format="reference"> </attr>
+        <attr name="scrollBarComeInAnamation" format="reference"> </attr>
+        <attr name="scrollBarGoOutAnamation" format="reference"> </attr>
+    </declare-styleable>
+</resources>
